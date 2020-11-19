@@ -1,0 +1,344 @@
+.navbar{
+    background-color: #1c3b80 !important; 
+}
+.navbr{
+    color: white !important;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 50px;
+    transition: 0.3s all ease-in-out;
+}
+.navbr:hover{
+    color: rgb(16, 182, 238)!important;
+}
+.nav-link{
+    color: white !important;
+    transition: 0.3s all ease-in-out;
+}
+.nav-link:hover{
+    color: rgb(16, 182, 238)!important;
+}
+.navcol{
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 550px !important;
+}
+.drpitem{
+    transition: 0.5s all ease-in-out;
+}
+.drpitem:hover{
+    background-color: #1c3b80 !important; 
+    color: white;
+}
+.slide{
+    background-image: url("Images/slide.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    padding-left: 65px;
+    padding-top: 150px;
+}
+.slidetxt{
+    width: 800px;
+    color: white;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.767);
+}
+.texts{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+/* .textpara{
+    margin-left: 92px;
+    margin-right: 92px;
+} */
+.tex{
+    color: #1c3b80;
+}
+img{
+    border: 1px solid wheat;
+}
+.fa-link{
+    transform: rotate(85deg);
+    margin-right: 28px;
+}
+i{
+    color: green;
+}
+.fa-signal-alt{
+    margin-right: 22px;
+}
+.fa-mobile-alt{
+    margin-right: 38px;
+}
+.msgs{
+    margin-bottom: 30px;
+}
+.msg{
+    margin-top: -50px;
+    margin-left: 60px;
+}
+.service{
+    background-color: rgb(253, 243, 229);
+
+}
+.servic{
+    background-color: rgb(22, 41, 126);
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+    margin-bottom: 2px ;
+    padding: 10px;
+    padding-left: 25px;
+    width: 250px;
+    transition: 0.4s all ease-in-out;
+}
+.digimg{
+    width: 500px;
+    height: 300px;
+}
+.details{
+    margin-left: 12px;
+}
+.controw{
+    margin-top: 50px;
+}
+.our{
+    width: 250px;
+    color: white;
+    background-color: #1c3b80;
+    padding-bottom: 60px;
+}
+.ourser{
+    margin-bottom: 20px;
+    margin-left: 45px;
+    padding-top: 20px;
+}
+.linser{
+    color: white;
+    transition: 0.5s all ease-in-out;
+}
+.servic:hover{
+    background-color:#183b70;
+}
+.linser:hover{
+    text-decoration: none;
+    color: white;
+}
+.btnser{
+    background-color: #183b70;
+    color: white;
+    transition: 0.5s all ease-in-out;
+    border: 1px solid  #183b70;
+    width: 150px;
+}
+.btnser:hover{
+    color:  #183b70;
+    background-color: white;
+    border: 1px solid #183b70;
+}
+.btnport{
+    background-color:white;
+    color:#183b70;
+    transition: 0.5s all ease-in-out;
+    border: 1px solid  white;
+    width: 150px;
+}
+.btnport:hover{
+    color:  white;
+    background-color: #183b70;
+    border: 1px solid white;
+    
+}
+.head{
+    color: #1c3b80;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.para{
+    margin-left: 5px;
+}
+.lastdiv{
+    color: white;
+    background-color: #1c3b80;
+    padding: 10px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.socico{
+    padding: 10px;
+    color: rgb(184, 181, 181);
+    margin-right: 15px;
+    border: 1px solid rgb(184, 181, 181);
+    border-radius: 30px;
+    transition: 0.5s all ease-in-out;
+}
+.logocom{
+    margin-right: 20px;
+}
+.socico:hover{
+    background-color:rgb(184, 181, 181);
+    color: #1c3b80 ;
+}
+.contheading{
+    margin-bottom: 20px;
+}
+.contpara{
+    color: rgb(184, 181, 181);
+}
+.links{
+    margin-bottom: 10px;
+    color:  rgb(184, 181, 181);
+}
+.lin{
+    color: rgb(184, 181, 181);
+    transition: 0.4s all ease-in-out;
+}
+.lin:hover{
+  text-decoration: none;  
+  color: rgb(16, 182, 238);
+}
+.contact-form input {
+    display: block;
+    width: 95%;
+    padding: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+#msg {
+    width: 96%;
+    padding: 7px;
+    margin-left: 8px;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.itemanch{
+    text-decoration: none;
+    color: black;
+    transition: 0.4s all ease-in-out;
+}
+.itemanch:hover{
+    color: black;
+    text-decoration: none;
+}
+.read{
+    text-decoration: none;
+    color: black;
+    transition: 0.4s all ease-in-out;
+}
+.read:hover{
+    text-decoration: none;
+    color: #1c3b80;
+
+}
+.rotate{
+    transform: rotate(85deg);
+}
+.services {
+    width: 100%;
+    margin: auto;
+}
+.headser{
+    padding-left: 29px;
+}
+.heads{
+    background-color: white;
+    margin-left: -28px;
+    margin-bottom: 24px;
+}
+.deta{
+    margin-left: 50px;
+    margin-top: -45px;
+}
+.items{
+    margin-top: 40px;
+}
+.detcont{
+    margin-bottom: 20px;
+}
+.deticon{
+    color:  #1c3b80;
+}
+.detpara{
+    color: rgba(124, 122, 122, 0.904);
+}
+
+.item_box{
+    transition: 0.5s all ease-in-out;
+    background-color: white;
+}
+.item_box:hover {
+    box-shadow: -1px 2px 6px 3px #00000030;
+}
+@media screen and (max-width: 650px){
+    .navcol{
+        font-size: 20px;
+        font-weight: 400;
+        margin-left: 10px !important;
+    }
+    .navbr{
+        color: white !important;
+        font-size: 25px;
+        font-weight: 500;
+        margin-left: 10px;
+        transition: 0.3s all ease-in-out;
+    }
+    .slide{
+        background-image: url("Images/slide.jpg");
+        background-repeat: no-repeat;
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: 100vw 100vh;
+        padding-left: 30px;
+        padding-top: 100px;
+    }
+    .slidetxt{
+        width: 330px;
+        color: white;
+    }
+    .slidehead{
+        font-size: 23px;
+    }
+    .digimg{
+        width: 326px;
+        height: 280px;
+    }
+    .msg{
+        margin-top: -45px;
+        margin-left: 60px;
+    }
+    .msgs{
+        margin-top: 20px;
+        margin-bottom: 18px;
+    }
+    .item_box{
+        transition: 0.5s all ease-in-out;
+        background-color: white;
+        margin-bottom: 10px;
+    }
+    .headser{
+        padding-left: 53px;
+    }
+    .heads{
+        background-color: white;
+        margin-left: 1px;
+        margin-bottom: 24px;
+    }
+    .contheading{
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+      
+}
