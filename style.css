@@ -72,6 +72,12 @@ i{
 .fa-mobile-alt{
     margin-right: 38px;
 }
+.txt{
+    font-weight: 900 ;
+    margin-left: 320px ;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
 .msgs{
     margin-bottom: 30px;
 }
