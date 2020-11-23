@@ -270,13 +270,13 @@
         </div>
         <div class="col-12 col-lg-6">
             <div class="contact-form">
-                <form action="">
-                    <input type="text" placeholder="Your Name*" required>
-                    <input type="email" placeholder="Your email*" required>
-                    <input type="text" placeholder="0300-0000000*" maxlength="11" required>
-                    <input type="text" placeholder="website URL*" required>
+                <form action="contactform.php" method="POST">
+                    <input type="text" name="name" placeholder="Your Name*" required>
+                    <input type="email" name="email" placeholder="Your email*" required>
+                    <input type="text" name="number" placeholder="0300-0000000*" maxlength="12" required>
+                    <input type="text" name="websiteurl" placeholder="website URL*" required>
                     <textarea name="msg" id="msg" cols="30" rows="4"></textarea>
-                    <button type="button" class="btn btn-secondary btn-lg">send Message</button>
+                    <button type="submit" name="submit" class="btn btn-secondary btn-lg">send Message</button>
                 </form>
             </div>
         </div>
